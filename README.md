@@ -9,10 +9,16 @@ this contain front project
 *italic type font style*
 ** font style in bold**
 ***italic and bold***
-# under list
+# unordered list
 * fruties
 * vegitables
   * carrot
   * potatoo
   * onions
-   
+ ## ordered list
+1. alphabites
+2. digites
+ 1.wholes
+ 2.natural number
+    
+    
