@@ -18,8 +18,8 @@ this contain front project
 ## ordered list
 1.alphabites
 2.digites
- 1.whole number
- 2.natural number
+ 1. whole number
+ 2. natural number
 
  
     
