@@ -17,9 +17,10 @@ this contain front project
   * onions
 ## ordered list
 1. alphabets
-2. digists
- 1. whole numbers
- 2. natural numbers
+2. digits
+  1.whole numbers
+  2.natural numbers
+  3.integers
 
  
     
