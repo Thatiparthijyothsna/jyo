@@ -16,10 +16,10 @@ this contain front project
   * potatoo
   * onions
 ## ordered list
-1.alphabites
-2.digites
- 1. whole number
- 2. natural number
+1. alphabets
+2. digists
+ 1. whole numbers
+ 2. natural numbers
 
  
     
