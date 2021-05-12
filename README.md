@@ -15,10 +15,12 @@ this contain front project
   * carrot
   * potatoo
   * onions
- ## ordered list
-1. alphabites
-2. digites
- 1.wholes
+## ordered list
+1.alphabites
+2.digites
+ 1.whole number
  2.natural number
+
+ 
     
     
