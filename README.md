@@ -18,9 +18,9 @@ this contain front project
 ## ordered list
 1. alphabets
 2. digits
-  1.whole numbers
-  2.natural numbers
-  3.integers
+  1. whole numbers
+  2. natural numbers
+  3. integers
 
  
     
