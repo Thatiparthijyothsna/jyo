@@ -12,8 +12,18 @@ this contain front project
 # unordered list
 * fruties
 * vagetables
- *carrot
- *onion
- *potatoo
+  * carrot
+  * onions
+  * potatoo
+## ordered list
+1. alphabets
+2. digits
+    1. whole numbers
+    2. natural numbers
+    3. integers
+
+![Tajmhal](https://4.bp.blogspot.com/-luC_BuyqbAE/UD5PBvdPDFI/AAAAAAAAIl0/IdfCCDIiwk0/s1600/Taj+Mahal+Wallpapers+3.jpg)
+
+  
 
 
