@@ -6,24 +6,14 @@ this contain front project
 #### it is used for heading 4
 ##### it is used for heading 5
 ###### it is used for heading 6
-*italic type font style*
-** font style in bold**
-***italic and bold***
+*font style in italic*
+**font style in bold**
+***font style in both italic and bold***
 # unordered list
 * fruties
-* vegitables
-  * carrot
-  * potatoo
-  * onions
-## ordered list
-1. alphabets
-2. digits
-  1. whole numbers
-  2. natural numbers
-  3. integers
+* vagetables
+ *carrot
+ *onion
+ *potatoo
 
 
-
- 
-    
-    
