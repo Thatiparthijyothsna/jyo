@@ -23,15 +23,11 @@ this contain front project
     3. integers
 
 ![Tajmhal](https://4.bp.blogspot.com/-luC_BuyqbAE/UD5PBvdPDFI/AAAAAAAAIl0/IdfCCDIiwk0/s1600/Taj+Mahal+Wallpapers+3.jpg)
-![google](http://www.google.com/)
-~~~ python
-def fun()
+[google](https:www.google.com)
+~~~python
+def fun():
 print("hallo")
-~~~ close
-Table1 Table2
-------|------
-Table body1 Table body2
-
-  
-
-
+~~~
+Table 1| Table 2
+-------|-------
+Table boday1|Table body2
